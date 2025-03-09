@@ -1,8 +1,8 @@
-# Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway
+# API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway
 
 
 ### Descrição do Projeto
-Neste projeto, desenvolvi uma API RESTful utilizando Java 17 e Spring Boot 3 para uma biblioteca, com integração a banco de dados via Spring Data JPA. O objetivo foi criar uma aplicação simples e funcional, com endpoints bem definidos para gerenciar recursos específicos. A API foi implementada com o foco em boas práticas de desenvolvimento e documentação.
+Neste projeto, desenvolvi uma API REST utilizando Java 17 e Spring Boot 3 para uma biblioteca, com integração a banco de dados via Spring Data JPA. O objetivo foi criar uma aplicação simples e funcional, com endpoints bem definidos para gerenciar recursos específicos. A API foi implementada com o foco em boas práticas de desenvolvimento e documentação.
 
 Após a criação da API, o próximo passo foi realizar o deploy na nuvem utilizando a plataforma Railway, que facilitou o processo de disponibilização da aplicação sem a necessidade de configurações complexas.
 
@@ -116,7 +116,7 @@ Acessando a Aplicação
 </h1>
 
 ### Objetivos do Projeto:
-- Criar uma API RESTful que seja capaz de receber requisições HTTP e interagir com o banco de dados.
+- Criar uma API REST que seja capaz de receber requisições HTTP e interagir com o banco de dados.
 - Garantir uma documentação clara da API, facilitando o uso e entendimento dos endpoints.
 - Implementar a aplicação na nuvem, permitindo acesso remoto à API de qualquer lugar.
 
@@ -132,11 +132,11 @@ Railway (para Deploy na Nuvem)
 ### Instalação
 #### 1 - Clone este repositório:
 ```
-git clone https://github.com/viniciosmucheirone/DIO-Decola-Tech2025.git
+git clone https://github.com/viniciosmucheirone/DIO-Biblioteca-API.git
 ```
 #### 2 - Navegue até o diretório do projeto:
 ```
-cd DIO-Decola-Tech2025/Biblioteca-API/
+cd Biblioteca-API
 ```
 #### 3 - Abra o projeto em sua IDE favorita (como IntelliJ IDEA ou Eclipse).
 
@@ -148,4 +148,4 @@ cd DIO-Decola-Tech2025/Biblioteca-API/
 ```
 Agora, sua API estará rodando localmente e você pode começar a fazer requisições aos seus endpoints.
 ###  Conclusão:
-Este projeto foi uma excelente oportunidade para aplicar os conceitos aprendidos no bootcamp Decola Tech Avanade 2025. A criação e o deploy de uma API RESTful na nuvem são habilidades essenciais para qualquer desenvolvedor full-stack, e agora, com o deploy no Railway, a API está acessível online, pronta para ser consumida por outras aplicações.
+Este projeto foi uma excelente oportunidade para aplicar os conceitos aprendidos no bootcamp Decola Tech Avanade 2025. A criação e o deploy de uma API REST na nuvem são habilidades essenciais para qualquer desenvolvedor full-stack, e agora, com o deploy no Railway, a API está acessível online, pronta para ser consumida por outras aplicações.
