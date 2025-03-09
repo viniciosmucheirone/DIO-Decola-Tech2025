@@ -1,1 +1,1 @@
-# DIO-Decola-Tech3
+# Criando um clone do BuzzFeed com Angular
