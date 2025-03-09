@@ -39,7 +39,7 @@ Este repositório serve como um local de armazenamento e compartilhamento dos pr
 # 📊 Projetos <a name = "planejamento"></a>
 
 ## Projeto 1 - [Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/Biblioteca-API)
-- Neste projeto, desenvolvi uma API RESTful utilizando Java 17 e Spring Boot 3, com integração a banco de dados via Spring Data JPA. O objetivo foi criar uma aplicação simples e funcional, com endpoints bem definidos para gerenciar recursos específicos. A API foi implementada com o foco em boas práticas de desenvolvimento e documentação.
+- Neste projeto, desenvolvi uma API REST utilizando Java 17 e Spring Boot 3, com integração a banco de dados via Spring Data JPA. O objetivo foi criar uma aplicação simples e funcional, com endpoints bem definidos para gerenciar recursos específicos. A API foi implementada com o foco em boas práticas de desenvolvimento e documentação.
 
 ## Projeto 2 - [Criando seu Board de tarefas com Java](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/Board)
 - Em desenvolvimento
