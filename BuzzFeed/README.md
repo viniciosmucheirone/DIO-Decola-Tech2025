@@ -1,1 +1,0 @@
-# Criando um clone do BuzzFeed com Angular
