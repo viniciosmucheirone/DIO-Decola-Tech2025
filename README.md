@@ -38,36 +38,36 @@ Este repositório serve como um local de armazenamento e compartilhamento dos pr
 
 # 📊 Projetos <a name = "planejamento"></a>
 
-## Projeto 1 - [Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/Biblioteca-API)
+## Projeto 1 - [Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/DIO-Bliblioteca-API)
 - Neste projeto, desenvolvi uma API REST utilizando Java 17 e Spring Boot 3, com integração a banco de dados via Spring Data JPA. O objetivo foi criar uma aplicação simples e funcional, com endpoints bem definidos para gerenciar recursos específicos. A API foi implementada com o foco em boas práticas de desenvolvimento e documentação.
 
-## Projeto 2 - [Criando seu Board de tarefas com Java](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/Board)
+## Projeto 2 - [Criando seu Board de tarefas com Java]()
 - Em desenvolvimento
 
 
-## Projeto 3 - [Criando um Blog com Angular](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/Blog-Angular)
+## Projeto 3 - [Criando um Blog com Angular]()
 - To-do
 
 
-## Projeto 4 - [Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/APP-Barbearia)
-- To-do
-
-
-
-## Projeto 5 - [Criando um clone do BuzzFeed com Angular](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/BuzzFeed)
-- To-do
-
-
-## Projeto 6 - [Análise de Sentimentos com Language Studio no Azure AI](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/Language-Studio-Azure-IA)
+## Projeto 4 - [Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular]()
 - To-do
 
 
 
-## Projeto 7 - [Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/Azure-Cognitive-Search)
+## Projeto 5 - [Criando um clone do BuzzFeed com Angular]()
 - To-do
 
 
-## Projeto 8 - [Explorando os Recursos de IA Generativa com Copilot e OpenAI](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/IA-Generativa-Copilot-OpenIA)
+## Projeto 6 - [Análise de Sentimentos com Language Studio no Azure AI]()
+- To-do
+
+
+
+## Projeto 7 - [Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados]()
+- To-do
+
+
+## Projeto 8 - [Explorando os Recursos de IA Generativa com Copilot e OpenAI]()
 - To-do
 
 
@@ -76,7 +76,6 @@ Este repositório serve como um local de armazenamento e compartilhamento dos pr
 - [<img src="_ExternalFiles/maven.jpg" height=40px>](https://maven.apache.org/) Apache Maven
 - [<img src="_ExternalFiles/hibernate.png" height=40px>](https://hibernate.org/) Hibernate
 - [<img src="_ExternalFiles/spring.png" height=20px>](https://spring.io/) Spring
-
 - Java 17
 - Spring Boot 3
 - Spring Data JPA
