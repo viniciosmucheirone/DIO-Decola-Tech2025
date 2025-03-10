@@ -1,3 +1,6 @@
 [submodule "DIO-Bliblioteca-API"]
 	path = DIO-Bliblioteca-API
 	url = https://github.com/viniciosmucheirone/DIO-Bliblioteca-API.git
+[submodule "DIO-Blog-Angular"]
+	path = DIO-Blog-Angular
+	url = https://github.com/viniciosmucheirone/DIO-Blog-Angular

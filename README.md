@@ -19,8 +19,8 @@ Este repositório contém os projetos desenvolvidos durante o bootcamp Decola Te
 
 
 ## 📝 Sumario de Projetos
-- [Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway](#authors)
-- [Criando seu Board de tarefas com Java](#authors)
+- [Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway](https://github.com/viniciosmucheirone/DIO-Bliblioteca-API)
+- [Criando seu Board de tarefas com Java](https://github.com/viniciosmucheirone/DIO-Blog-Angular)
 - [Criando um Blog com Angular](#authors)
 - [Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular](#authors)
 - [Criando um clone do BuzzFeed com Angular](#authors)
@@ -38,10 +38,10 @@ Este repositório serve como um local de armazenamento e compartilhamento dos pr
 
 # 📊 Projetos <a name = "planejamento"></a>
 
-## Projeto 1 - [Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway](https://github.com/viniciosmucheirone/DIO-Decola-Tech2025/tree/main/DIO-Bliblioteca-API)
+## Projeto 1 - [Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway](https://github.com/viniciosmucheirone/DIO-Bliblioteca-API)
 - Neste projeto, desenvolvi uma API REST utilizando Java 17 e Spring Boot 3, com integração a banco de dados via Spring Data JPA. O objetivo foi criar uma aplicação simples e funcional, com endpoints bem definidos para gerenciar recursos específicos. A API foi implementada com o foco em boas práticas de desenvolvimento e documentação.
 
-## Projeto 2 - [Criando seu Board de tarefas com Java]()
+## Projeto 2 - [Criando seu Board de tarefas com Java](https://github.com/viniciosmucheirone/DIO-Blog-Angular)
 - Em desenvolvimento
 
 
@@ -72,11 +72,10 @@ Este repositório serve como um local de armazenamento e compartilhamento dos pr
 
 
 ## ⛏️ Tecnologias utilizadas: 
-- [<img src="_ExternalFiles/java.jpg" height=40px>](https://www.oracle.com/br/Java/) JAVA
-- [<img src="_ExternalFiles/maven.jpg" height=40px>](https://maven.apache.org/) Apache Maven
-- [<img src="_ExternalFiles/hibernate.png" height=40px>](https://hibernate.org/) Hibernate
-- [<img src="_ExternalFiles/spring.png" height=20px>](https://spring.io/) Spring
-- Java 17
+- JAVA 17
+- Apache Maven
+- Hibernate
+- Spring
 - Spring Boot 3
 - Spring Data JPA
 - Swagger/OpenAPI
