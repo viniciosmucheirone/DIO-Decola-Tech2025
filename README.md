@@ -41,7 +41,7 @@ Este repositório serve como um local de armazenamento e compartilhamento dos pr
 ## Projeto 1 - [Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway](https://github.com/viniciosmucheirone/DIO-Bliblioteca-API)
 - Neste projeto, desenvolvi uma API REST utilizando Java 17 e Spring Boot 3, com integração a banco de dados via Spring Data JPA. O objetivo foi criar uma aplicação simples e funcional, com endpoints bem definidos para gerenciar recursos específicos. A API foi implementada com o foco em boas práticas de desenvolvimento e documentação.
 
-## Projeto 2 - [Criando seu Board de tarefas com Java](https://github.com/viniciosmucheirone/DIO-Board-Java)
+## Projeto 2 - [Criando um Board de tarefas com Java](https://github.com/viniciosmucheirone/DIO-Board-Java)
 - Neste projeto, desenvolvi uma aplicação de gerenciamento de tarefas utilizando Java, com foco nas melhores práticas de desenvolvimento. O objetivo foi criar um board de tarefas funcional, passando por todas as etapas do processo, desde o planejamento e estruturação até a implementação de funcionalidades como gerenciamento de dados e integração entre camadas. A aplicação foi desenvolvida seguindo as melhores práticas de programação e boas práticas de design de software.
 
 
