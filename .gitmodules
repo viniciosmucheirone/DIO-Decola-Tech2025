@@ -4,3 +4,6 @@
 [submodule "DIO-Blog-Angular"]
 	path = DIO-Blog-Angular
 	url = https://github.com/viniciosmucheirone/DIO-Blog-Angular
+[submodule "DIO-Board-Java"]
+	path = DIO-Board-Java
+	url = https://github.com/viniciosmucheirone/DIO-Board-Java.git
