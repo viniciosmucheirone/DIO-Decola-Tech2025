@@ -7,3 +7,18 @@
 [submodule "DIO-Board-Java"]
 	path = DIO-Board-Java
 	url = https://github.com/viniciosmucheirone/DIO-Board-Java.git
+[submodule "DIO-BuzzFeed-Angular"]
+	path = DIO-BuzzFeed-Angular
+	url = https://github.com/viniciosmucheirone/DIO-BuzzFeed-Angular.git
+[submodule "DIO-APP-Agendamento-Barbearia"]
+	path = DIO-APP-Agendamento-Barbearia
+	url = https://github.com/viniciosmucheirone/DIO-APP-Agendamento-Barbearia.git
+[submodule "DIO-Analise-Sentimentos-Language-Studio"]
+	path = DIO-Analise-Sentimentos-Language-Studio
+	url = https://github.com/viniciosmucheirone/DIO-Analise-Sentimentos-Language-Studio.git
+[submodule "DIO-IA-Generativa-Copilot-OpenAI"]
+	path = DIO-IA-Generativa-Copilot-OpenAI
+	url = https://github.com/viniciosmucheirone/DIO-IA-Generativa-Copilot-OpenAI.git
+[submodule "DIO-AI-Search-Indexacao-Dados"]
+	path = DIO-AI-Search-Indexacao-Dados
+	url = https://github.com/viniciosmucheirone/DIO-AI-Search-Indexacao-Dados.git
