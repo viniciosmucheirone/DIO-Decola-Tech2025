@@ -55,12 +55,8 @@ Este repositório serve como um local de armazenamento e compartilhamento dos pr
 - Neste projeto, desenvolvi uma análise de sentimentos utilizando Azure AI para avaliar o comentário de um usuário sobre um parque de diversões, em uma página web relacionada ao setor de turismo. A ferramenta de processamento de linguagem natural identificou as emoções contrastantes presentes no texto.
 
 
-## Projeto 7 - [Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados](https://github.com/viniciosmucheirone/DIO-AI-Search-Indexacao-Dados)
-- To-do
+## Projeto 7 - [Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados](https://github.com/viniciosmucheirone/DIO-AI-Search-Indexacao-Dados) 
+- Neste projeto, desenvolvi uma solução utilizando o Azure Cognitive Search para encontrar rapidamente opiniões de clientes sobre os serviços de uma cafeteria. Através da inteligência artificial, essa ferramenta otimiza a busca em documentos, bancos de dados e sites, tornando as consultas mais rápidas e eficientes.
 
 ## Projeto 8 - [Explorando os Recursos de IA Generativa com Copilot e OpenAI](https://github.com/viniciosmucheirone/DIO-IA-Generativa-Copilot-OpenAI)
-- To-do
-
-
-
-
+-  Neste projeto, desenvolvi uma série de interações para testar e entender o poder das IAs generativas da Microsoft Copilot e OpenAI. O objetivo foi explorar como essas tecnologias funcionam e como podem ser aplicadas para gerar resultados satisfatórios em diferentes contextos. No final do repositório, será apresentada uma imagem gerada pela Microsoft Copilot, criada a partir de um prompt de texto que descreve de forma detalhada como desejo que a foto seja gerada. Esse processo envolveu a utilização de descrições precisas e experimentação para otimizar o resultado visual gerado pela IA, destacando o potencial das IAs generativas para a criação de imagens com base em direções textuais específicas.
