@@ -10,9 +10,7 @@
   <a href="#tech_utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-Este repositório contém os projetos desenvolvidos durante o bootcamp Decola Tech Avanade 2025, focado em Spring Boot, Angular, e tecnologias de Inteligência Artificial. O bootcamp tem como objetivo capacitar os participantes para o desenvolvimento de aplicações full-stack, com foco em criar APIs REST, integrar sistemas com banco de dados, e explorar serviços de nuvem e IA.
-
-
+Este repositório contém os projetos desenvolvidos durante o bootcamp Decola Tech Avanade 2025, focado em Spring Boot, Angular, e tecnologias de Inteligência Artificial. O objetivo do bootcamp é capacitar os participantes para o desenvolvimento de aplicações full-stack, com foco em criar APIs REST, integrar sistemas com banco de dados, e explorar serviços de nuvem e IA.
 
 ## ✍️ Autor:  <a name = "authors"></a>
 - <img src="_ExternalFiles/linkedln.png" height=15px> [Vinicios Mucheirone](https://www.linkedin.com/in/viniciosmucheirone/)
@@ -21,12 +19,12 @@ Este repositório contém os projetos desenvolvidos durante o bootcamp Decola Te
 ## 📝 Sumario de Projetos
 - [Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway](https://github.com/viniciosmucheirone/DIO-Bliblioteca-API)
 - [Criando seu Board de tarefas com Java](https://github.com/viniciosmucheirone/DIO-Board-Java)
-- [Criando um Blog com Angular](#authors)
-- [Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular](#authors)
-- [Criando um clone do BuzzFeed com Angular](#authors)
-- [Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados](#authors)
-- [Análise de Sentimentos com Language Studio no Azure AI](#authors)
-- [Explorando os Recursos de IA Generativa com Copilot e OpenAI](#authors)
+- [Criando um Blog com Angular](https://github.com/viniciosmucheirone/DIO-Blog-Angular)
+- [Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular](https://github.com/viniciosmucheirone/DIO-APP-Agendamento-Barbearia)
+- [Criando um clone do BuzzFeed com Angular](https://github.com/viniciosmucheirone/DIO-BuzzFeed-Angular)
+- [Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados](https://github.com/viniciosmucheirone/DIO-AI-Search-Indexacao-Dados)
+- [Análise de Sentimentos com Language Studio no Azure AI](https://github.com/viniciosmucheirone/DIO-Analise-Sentimentos-Language-Studio)
+- [Explorando os Recursos de IA Generativa com Copilot e OpenAI](https://github.com/viniciosmucheirone/DIO-IA-Generativa-Copilot-OpenAI)
 
 # 🗺️ Sobre o Bootcamp:
 
@@ -44,48 +42,25 @@ Este repositório serve como um local de armazenamento e compartilhamento dos pr
 ## Projeto 2 - [Criando um Board de tarefas com Java](https://github.com/viniciosmucheirone/DIO-Board-Java)
 - Neste projeto, desenvolvi uma aplicação de gerenciamento de tarefas utilizando Java, com foco nas melhores práticas de desenvolvimento. O objetivo foi criar um board de tarefas funcional, passando por todas as etapas do processo, desde o planejamento e estruturação até a implementação de funcionalidades como gerenciamento de dados e integração entre camadas. A aplicação foi desenvolvida seguindo as melhores práticas de programação e boas práticas de design de software.
 
+## Projeto 3 - [Criando um Blog com Angular](https://github.com/viniciosmucheirone/DIO-Blog-Angular)
+- Este projeto foi o desenvolvimento de um blog construído utilizando Angular. Foi gerado com o Angular CLI na versão 14.1.2. O objetivo principal foi criar uma plataforma simples de blog com funcionalidades essenciais como exibição de postagens e navegação entre as páginas. A aplicação também foi projetada para ser responsiva, garantindo que o layout se ajustasse a diferentes dispositivos..
 
-## Projeto 3 - [Criando um Blog com Angular]()
+## Projeto 4 - [Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular](https://github.com/viniciosmucheirone/DIO-APP-Agendamento-Barbearia)
+- Este projeto teve como objetivo o desenvolvimento de um sistema de agendamento para barbearias, proporcionando uma solução simples, eficiente e intuitiva para gerenciar os agendamentos de serviços. O sistema foi dividido em duas partes: Frontend e Backend
+
+## Projeto 5 - [Criando um clone do BuzzFeed com Angular](https://github.com/viniciosmucheirone/DIO-BuzzFeed-Angular)
+- Neste projeto, desenvolvi uma aplicação interativa no estilo BuzzFeed, com quizzes e resultados dinâmicos, utilizando o Angular. O objetivo foi criar uma plataforma de quizzes, onde os usuários poderiam participar e ver os resultados de maneira divertida e interativa.
+
+## Projeto 6 - [Análise de Sentimentos com Language Studio no Azure AI](https://github.com/viniciosmucheirone/DIO-Analise-Sentimentos-Language-Studio)
+- Este projeto avaliou o comentário de um usuário sobre um parque de diversões, em uma página web relacionada ao setor de turismo, por meio da análise de sentimentos utilizando Azure (uma técnica de processamento de linguagem natural). A ferramenta identificou as emoções contrastantes presentes no texto.
+
+
+## Projeto 7 - [Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados](https://github.com/viniciosmucheirone/DIO-AI-Search-Indexacao-Dados)
+- To-do
+
+## Projeto 8 - [Explorando os Recursos de IA Generativa com Copilot e OpenAI](https://github.com/viniciosmucheirone/DIO-IA-Generativa-Copilot-OpenAI)
 - To-do
 
 
-## Projeto 4 - [Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular]()
-- To-do
 
-
-
-## Projeto 5 - [Criando um clone do BuzzFeed com Angular]()
-- To-do
-
-
-## Projeto 6 - [Análise de Sentimentos com Language Studio no Azure AI]()
-- To-do
-
-
-
-## Projeto 7 - [Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados]()
-- To-do
-
-
-## Projeto 8 - [Explorando os Recursos de IA Generativa com Copilot e OpenAI]()
-- To-do
-
-
-## ⛏️ Tecnologias utilizadas: 
-- JAVA 17
-- Apache Maven
-- Hibernate
-- Spring
-- Spring Boot 3
-- Spring Data JPA
-- Swagger/OpenAPI
-- Railway (para Deploy na Nuvem)
-
-# 💾 Links uteis <a name = "links"></a>
-
-- JAVA https://www.oracle.com/br/Java/
-- MySQL https://www.mysql.com/
-- Apache Maven https://maven.apache.org/
-- Hibernate https://hibernate.org/
-- Spring https://spring.io/
 
